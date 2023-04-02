@@ -38,5 +38,5 @@ function game(){
     result.push(playRound(playerSelection, computerSelection));
   }
 }
-result[];
+result;
 game();
